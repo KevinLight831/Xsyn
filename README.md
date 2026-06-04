@@ -51,5 +51,16 @@ Details of some important args:
 
 After inference, we use `downstream_test.sh` to test the performance of our sythetic data. Our downstream detection environment is [mmdetection](https://github.com/open-mmlab/mmdetection).
 
+## Citation
+If this codebase is useful to you, please consider citing:
+```
+@article{sun2026Xsyn,
+  title={Taming Generative Synthetic Data for X-ray Prohibited Item Detection},
+  author={Sun, Jialong and Zhu, Hongguang and Liu, Weizhe and Sun, Yunda and Tao, Renshuai and Wei, Yunchao},
+  journal={IEEE Transactions on Information Forensics & Security},
+  year={2026},
+  publisher={IEEE}
+}
+```
 ## 🙏 Acknowledgment
 This work is implemented based on [GLIGEN](https://github.com/gligen/GLIGEN). We greatly appreciate their valuable contributions to the community.

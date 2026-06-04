@@ -1,4 +1,4 @@
-# Taming Generative Synthetic Data for X-ray Prohibited Item Detection
+# [TIFS 2026] Taming Generative Synthetic Data for X-ray Prohibited Item Detection
 
 [[Arxiv](https://arxiv.org/abs/2511.15299)] [[HF](https://huggingface.co/papers/2511.15299)]
 
